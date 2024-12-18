@@ -5,7 +5,7 @@
 * Esta clase permite interactuar con una hoja de cálculo de Google Sheets, proporcionando 
 * funcionalidades para validar, consultar, insertar, actualizar y eliminar filas en una hoja específica.
 */
-class Conexion {
+class ConexionGAS {
 
   /**
   * Constructor
